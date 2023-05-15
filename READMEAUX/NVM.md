@@ -47,6 +47,16 @@ Após executar o arquivo instalado do site os seguintes passo:
    - Se tudo estiver certo vai aparecer conforme abaixo:
      
      <img src=https://github.com/Matheusilva431/READMES/assets/85804680/adb5171b-87a9-4ee3-be7b-3e33291c310a width="700" >
+   
+   - Instale a ultima versão do [NODE](https://nodejs.org/en), execute os seguintes comando
+     ```npm
+      nvm ls available
+     ```
+     Verifique a primeira versão que aparece em LTS, neste caso foi o 18.16.0, e execute o comando `npm install v18.16.0(a ultima que aparece)`
+     
+     <img src=https://github.com/Matheusilva431/READMES/assets/85804680/57604d68-6681-4016-9ebd-8b5ebf8f6041 width="700" >
+     
+     <img src=https://github.com/Matheusilva431/READMES/assets/85804680/d640a9c5-53c8-4d91-88ac-27459354f70f width="700" >
 
 <h2 align= "center" >
 
