@@ -1,8 +1,8 @@
 <h1 align="center"> NODE VERSION MANAGER </h1>
 
-> Obs.: Para instalar o NVM deve-se primeiramente desinstalar e remover o NPM e o NODE atual da maquina.
-
 ## Como instalar o NVM no Windows
+
+> Obs.: Para instalar o NVM deve-se primeiramente desinstalar e remover o NPM e o NODE atual da maquina.
 
 Acesse o site do [NVM](https://github.com/coreybutler/nvm-windows/releases)  no Github e clique em `nvm-setup.zip`
 
@@ -32,7 +32,7 @@ Após executar o arquivo instalado do site os seguintes passo:
    
 -  Após isso clique em `Finish`
    
-   <img src=https://github.com/Matheusilva431/READMES/assets/85804680/e06dcd0a-e623-4f67-8db3-e9e532f60c5f) width="700" >
+   <img src=https://github.com/Matheusilva431/READMES/assets/85804680/e06dcd0a-e623-4f67-8db3-e9e532f60c5f width="700" >
 
 
 -  Agora vamos verificar se instalou corretamente e instalar a versão(16.16.0) do NODE para rodar a aplicação feita em Angular
@@ -48,4 +48,9 @@ Após executar o arquivo instalado do site os seguintes passo:
      
      <img src=https://github.com/Matheusilva431/READMES/assets/85804680/adb5171b-87a9-4ee3-be7b-3e33291c310a width="700" >
 
+<h2 align= "center" >
+
 [<kbd>VOLTAR</kbd>](../README.md)
+[<kbd> ⬆️VOLTAR AO TOPO </kbd>](#como-instalar-o-nvm-no-windows)
+
+</h2>
