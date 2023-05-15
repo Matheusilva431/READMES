@@ -4,5 +4,5 @@
 
 ## Como instalar:
 - [VSCODE](READMEAUX/VSCODE.md)
-- [PYTHON](./PYTHON.md)
-- [NVM](./NVM.md)
+- [PYTHON](READMEAUX/PYTHON.md)
+- [NVM](READMEAUX/NVM.md)
