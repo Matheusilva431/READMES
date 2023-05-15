@@ -2,7 +2,7 @@
 
 ## Como instalar o Angular no Windows
 
-> Obs.: Para instalar o angular deve-se instalar o [NODE](READMEAUX/NVM.md).
+> Obs.: Para instalar o angular deve-se instalar o [NODE](NVM.md).
 
 Abrar o `CMD` ➡️ <kbd>Win</kbd> ➡️ digite: `CMD` ➡️ <kbd>Enter</kbd>
    - Digite os seguintes comandos
