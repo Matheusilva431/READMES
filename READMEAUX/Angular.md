@@ -13,6 +13,14 @@ Abrar o `CMD` ➡️ <kbd>Win</kbd> ➡️ digite: `CMD` ➡️ <kbd>Enter</kbd>
       node -v
      ```
 
+<h1 align="center"> ⚠️ Possíveis erros ⚠️ </h1>
+
+- WARN
+  ```npm
+   npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+   ```
+   Acesse o [Stackoverflow](https://stackoverflow.com/questions/72401421/message-npm-warn-config-global-global-local-are-deprecated-use-loc) para realizar a correção
+
 <h1 align="center">
 
 [<kbd>VOLTAR</kbd>](../README.md)
