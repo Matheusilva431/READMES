@@ -3,6 +3,6 @@
 > Neste Repositório contém instruções de instalações de vário software em português
 
 ## Como instalar:
-- [VSCODE](./VSCODE.md)
+- [VSCODE](READMEAUX/VSCODE.md)
 - [PYTHON](./PYTHON.md)
 - [NVM](./NVM.md)
