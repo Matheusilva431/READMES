@@ -8,3 +8,4 @@
 - [NVM](READMEAUX/NVM.md)
 - [ANGULAR(v12.2.7)](READMEAUX/Angular.md)
   - > Obs.: Caso queria instalar apena a ultima versão do angular basta não realizar o código que indica a versão 12.2.7
+- [Chocolatey](READMEAUX/CHOCOLATEY.md)
